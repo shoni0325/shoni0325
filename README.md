@@ -1,4 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=print%20("Shoni")&fontSize=75)
+
+## ✨ About me ✨
+🌱Hi, I'm soyeon kyeong, a growing data-analyst🌱
+
+## 📚 Technology Stack 📚
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 
 <!--
 **shoni0325/shoni0325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![univ](https://user-images.githubusercontent.com/129731878/236739478-d0b57e9b-0327-42c2-8604-c6fd419750f2.jpg)
+
