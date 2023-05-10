@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=print%20("Shoni")&fontSize=75)
 
+
+
 ## ✨ About me ✨
 🌱Hi, I'm soyeon kyeong, a growing data-analyst🌱
+
+
+
 
 ## 📚 Technology Stack 📚
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
