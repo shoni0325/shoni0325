@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=print%20("Shoni")&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=wave&color=orange&height=300&section=header&text=print%20("Shoni")&fontSize=75)
 
 
 
